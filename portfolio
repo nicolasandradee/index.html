@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio de Nícolas Andrade Coelho Costa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+        section {
+            padding: 2rem;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 1rem;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .contact {
+            background: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+        .contact a {
+            color: #fff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Nícolas Andrade Coelho Costa</h1>
+        <p>Tech Recruiter | Recrutamento e Seleção | SAP | Psicologia Organizacional e do Trabalho</p>
+    </header>
+    <section class="container">
+        <h2>Sobre Mim</h2>
+        <p>Profissional graduado em Psicologia e pós-graduado em Psicologia Organizacional e do Trabalho, com capacitação em Gestão e Recursos Humanos, tendo experiência em RH Generalista, com foco em Recrutamento e Seleção de vagas de Tecnologia da Informação e SAP. Atuando atualmente como Analista de Recrutamento e Seleção, com foco em Tech Recruiting, SAP Recruiting e Gestão de Talentos.</p>
+        
+        <h2>Experiência Profissional</h2>
+        <h3>Megawork Consultoria</h3>
+        <p>Analista de Recrutamento e Seleção | Tech Recruiter (outubro de 2023 - Presente)</p>
+        <ul>
+            <li>Recrutamento e Seleção de profissionais SAP e Multiplataforma</li>
+            <li>Entrevista por competências</li>
+            <li>Apresentação dos profissionais alinhados ao perfil técnico e cultural da empresa</li>
+            <li>Relacionamento com Banco de Talentos Megawork</li>
+            <li>Desenvolvimento de ações estratégicas para o setor</li>
+            <li>Mapear perfil comportamental</li>
+            <li>Aplicação de testes e avaliações psicológicas</li>
+            <li>Elaboração de pareceres e laudos comportamentais</li>
+            <li>Gerir plataformas ATS (Gupy, Kenoby, etc)</li>
+            <li>Triagem e análise em plataformas de gestão de candidatos</li>
+            <li>Analisar e gerenciar indicadores de RH</li>
+            <li>Apresentação de resultados em reuniões de governança com os gestores</li>
+            <li>Planejar e executar ações de onboarding</li>
+            <li>Suporte ao time de gestão em decisões estratégicas</li>
+        </ul>
+        
+        <h3>AST Consultoria e Desenvolvimento Empresarial LTDA</h3>
+        <p>Agente de Recrutamento e Seleção IV (maio de 2022 - outubro de 2023)</p>
+        <ul>
+            <li>Atuação com RH generalista, responsável pelo setor de Recrutamento e Seleção</li>
+            <li>Desenvolvimento de projetos de recrutamento com grandes empresas nacionais e multinacionais</li>
+            <li>Realização de publicação de vagas, triagem de currículos, entrevistas presenciais e online</li>
+            <li>Desenvolvimento de dinâmicas, aplicação de baterias de Testes Psicológicos</li>
+            <li>Avaliação psicológica e elaboração de laudos</li>
+            <li>Experiência com diferentes plataformas de recrutamento como Selecty, InfoJobs, Indeed, LinkedIn</li>
+            <li>Admissão, demissão, integração e ambientação de colaboradores</li>
+            <li>Contato direto com setor de DP dando auxílio quando necessário</li>
+            <li>Atuação e experiência com diferentes tipos de contrato (CLT, temporário, intermitente, estagiário)</li>
+        </ul>
+        
+        <h2>Formação Acadêmica</h2>
+        <ul>
+            <li>Pós-graduação Lato Sensu, Psicologia Organizacional e do Trabalho (FAVENI, 2021 - 2022)</li>
+            <li>Capacitação, Gestão Pública e Recursos Humanos (FAVENI, 2021 - 2021)</li>
+            <li>Ensino Superior, Psicologia (UniRedentor, 2017 - 2021)</li>
+            <li>Técnico, Tecnologia da Informação (IFF, 2013 - 2016)</li>
+            <li>Inglês Avançado, Língua Inglesa e Literaturas de Língua Inglesa (CNA Idiomas, 2010 - 2015)</li>
+        </ul>
+        
+        <h2>Competências e Certificações</h2>
+        <h3>Competências:</h3>
+        <ul>
+            <li>Recrutamento e Seleção/Tech Recruiter</li>
+            <li>Hunting</li>
+            <li>Análise de Dados e Indicadores</li>
+            <li>Gestão de talentos</li>
+            <li>Gestão de pessoas</li>
+            <li>Melhoria contínua</li>
+        </ul>
+        <h3>Certificações:</h3>
+        <ul>
+            <li>Comportamento Organizacional: contribuições da psicologia para tempos de Pandemia</li>
+            <li>Consultor Funcional SAP HCM Trainee</li>
+            <li>Curso de Extensão - Gestão da Mudança Organizacional</li>
+            <li>Curso de Extensão - Recrutamento, Seleção e Onboarding</li>
+        </ul>
+    </section>
+    <footer class="contact">
+        <p>Telefone: 22 9 9849-2801 | E-mail: nicolas.andradee2@gmail.com</p>
+        <p><a href="https://www.linkedin.com/in/n%C3%ADcolasandrade109717112610">LinkedIn</a></p>
+    </footer>
+</body>
+</html>
